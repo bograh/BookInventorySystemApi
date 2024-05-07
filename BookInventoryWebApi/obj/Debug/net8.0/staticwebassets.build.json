@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o6jeUW+LOGAMm4KrwacE64UXASoSsFSiBwi34FpGoO4=",
+  "Source": "BookInventoryWebApi",
+  "BasePath": "_content/BookInventoryWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
